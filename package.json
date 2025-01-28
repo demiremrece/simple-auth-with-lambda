@@ -1,0 +1,19 @@
+{
+  "name": "simple-auth-with-lambda",
+  "version": "1.0.0",
+  "main": "src/handlers/health.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Demir",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "serverless-offline": "^14.4.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

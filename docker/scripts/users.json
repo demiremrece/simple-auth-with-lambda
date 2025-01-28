@@ -1,0 +1,16 @@
+[
+  {
+    "id": "712060aa-6d78-4776-a0c0-b53fd470f5b7",
+    "email": "test1@example.com",
+    "password": "hashedPassword123",
+    "firstname": "Rafa",
+    "lastname": "Nadal"
+  },
+  {
+    "id": "681960aa-6d78-4776-a0c0-b53fd470f548",
+    "email": "test2@example.com",
+    "password": "hashedPassword456",
+    "firstname": "Roger",
+    "lastname": "Federer"
+  }
+]
